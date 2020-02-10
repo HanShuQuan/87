@@ -2,6 +2,6 @@ package com;
 
 public class apple {
 	public static void main(String[] args) {
-		System.out.println("�ύ");
+		System.out.println("提交");
 	}
 }
